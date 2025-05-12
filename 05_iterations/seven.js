@@ -1,10 +1,12 @@
 const myNumers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 // const newNums = myNumers.map( (num) => { return num + 10})
+
 // const newNumssss = []
 // const newfor = myNumers.forEach( (num) => {
 //     newNumssss.push(num + 10)     
 // })
+
 // console.log(newNumssss);
 
 const newNums = myNumers
